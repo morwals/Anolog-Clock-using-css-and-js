@@ -1,2 +1,2 @@
 # Anolog-Clock-using-css-and-js
-This is simple HTML Website developed using HTML , CSS and JavaScript
+This is simple HTML Website developed using CSS and JavaScript
